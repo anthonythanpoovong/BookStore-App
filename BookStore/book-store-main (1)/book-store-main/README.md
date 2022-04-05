@@ -1,4 +1,0 @@
-# book-store
-COE 528
-
-DO NOT MAKE THIS PUBLIC!
